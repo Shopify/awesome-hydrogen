@@ -27,3 +27,7 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 ### Plugins
 
 - [Sanity](https://github.com/sanity-io/hydrogen-plugin-sanity)
+
+### Blog posts
+
+- [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/) by Ilya Grigorik
