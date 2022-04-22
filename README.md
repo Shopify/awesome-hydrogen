@@ -31,3 +31,7 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 ### Blog posts
 
 - [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/) by Ilya Grigorik
+
+### Vite plugins
+
+- [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically.
