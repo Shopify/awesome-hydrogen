@@ -15,6 +15,10 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 - [create-hydrogen-app](https://www.npmjs.com/package/create-hydrogen-app)
 - [Experiment on StackBlitz](https://hydrogen.new)
 
+### Tools
+
+- [Hydrogen for VSCode](https://marketplace.visualstudio.com/items?itemName=crtogrm.hydrogen-vscode&ssr=false#overview)
+
 ### Community
 
 - [Discord](https://discord.gg/ppSbThrFaS)
