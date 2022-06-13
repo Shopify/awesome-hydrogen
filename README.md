@@ -13,7 +13,8 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 ### Getting started
 
 - [create-hydrogen-app](https://www.npmjs.com/package/create-hydrogen-app)
-- [Experiment on StackBlitz](https://hydrogen.new)
+- [Experiment on StackBlitz - Demo Store](https://hydrogen.new)
+- [Experiment on StackBlitz - Hello World](https://stackblitz.com/fork/github/shopify/hydrogen/tree/stackblitz/templates/hello-world)
 
 ### Tools
 
@@ -26,7 +27,12 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 
 ### Examples
 
+- [API Routes](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/api-routes)
 - [CSS Modules](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/css-modules)
+- [Google Analytics](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/google-analytics)
+- [Meta Pixel](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/meta-pixel)
+- [Rust](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/rust)
+- [TypeScript](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/typescript)
 
 ### Plugins
 
