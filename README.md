@@ -6,8 +6,8 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 
 ### Official Resources
 
-- [Framework Docs](https://shopify.dev/custom-storefronts/hydrogen/framework)
-- [API Docs](https://shopify.dev/custom-storefronts/hydrogen)
+- [Hydrogen framework docs](https://shopify.dev/custom-storefronts/hydrogen/framework)
+- [Hydrogen reference](https://shopify.dev/api/hydrogen)
 - [GitHub](https://github.com/Shopify/hydrogen)
 
 ### Getting started
@@ -27,8 +27,8 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 
 ### Examples
 
-- [API Routes](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/api-routes)
-- [CSS Modules](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/css-modules)
+- [API routes](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/api-routes)
+- [CSS modules](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/css-modules)
 - [Google Analytics](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/google-analytics)
 - [Meta Pixel](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/meta-pixel)
 - [Rust](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/rust)
