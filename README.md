@@ -12,7 +12,7 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 
 ### Getting started
 
-- [create-hydrogen-app](https://www.npmjs.com/package/create-hydrogen-app)
+- [create @shopify/hydrogen](https://www.npmjs.com/package/@shopify/create-hydrogen)
 - [Experiment on StackBlitz - Demo Store](https://hydrogen.new)
 - [Experiment on StackBlitz - Hello World](https://stackblitz.com/fork/github/shopify/hydrogen/tree/stackblitz/templates/hello-world)
 
@@ -44,6 +44,18 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 - [React Server Components Best Practices You Can Use with Hydrogen](https://shopify.engineering/react-server-components-best-practices-hydrogen) by Cathryn Griffiths
 - [Hydrogen & Tailwind: The Perfect Match for Building Beautiful Storefronts](https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts) by Josh Larson
 - [Best-in-Class Developer Experience with Vite and Hydrogen](https://shopify.engineering/developer-experience-with-hydrogen-and-vite) by Fran Dios
+
+### Podcasts
+
+- [The Changelog – Episode #469 Shopify's vision for the future of commerce](https://changelog.com/podcast/469) with Ilya Grigorik
+- [FSJam – Episode #70](https://fsjam.org/episodes/episode-70-hydrogen-with-josh-larson) with Josh Larson
+- [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29) with Anthony Frehner
+
+
+### Conference Talks
+
+- [Anthony Frehner at Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)
+  
 
 ### Vite plugins
 
