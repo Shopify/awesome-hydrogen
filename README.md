@@ -52,7 +52,7 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 - [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29) with Anthony Frehner
 
 
-### Conference Talks
+### Conference talks
 
 - [Anthony Frehner at Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)
   
