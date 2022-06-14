@@ -47,8 +47,7 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 
 ### Podcasts
 
-- [The Changelog – Episode #469 Shopify's vision for the future of commerce](https://changelog.com/podcast/469)
- with Ilya Grigorik
+- [The Changelog – Episode #469 Shopify's vision for the future of commerce](https://changelog.com/podcast/469) with Ilya Grigorik
 - [FSJam – Episode #70](https://fsjam.org/episodes/episode-70-hydrogen-with-josh-larson) with Josh Larson
 - [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29) with Anthony Frehner
 
