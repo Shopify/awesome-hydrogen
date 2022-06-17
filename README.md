@@ -18,7 +18,7 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 
 ### Tools
 
-- [Hydrogen for VSCode](https://marketplace.visualstudio.com/items?itemName=crtogrm.hydrogen-vscode&ssr=false#overview)
+- [Hydrogen for VSCode](https://marketplace.visualstudio.com/items?itemName=crtogrm.hydrogen-vscode&ssr=false#overview) by [Matt Seccafian](https://github.com/cartogram)
 
 ### Community
 
@@ -34,9 +34,12 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 - [Rust](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/rust)
 - [TypeScript](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/typescript)
 
-### Plugins
+### Apps & Integrations
 
-- [Sanity](https://github.com/sanity-io/hydrogen-plugin-sanity)
+- [Sanity](https://github.com/sanity-io/hydrogen-app)
+- [Rebuy](https://www.npmjs.com/package/@rebuy/rebuy-hydrogen)
+- [Loop Returns](https://www.npmjs.com/package/@loophq/onstore-sdk/v/1.0.8)
+- [Searchspring](https://searchspring.zendesk.com/hc/en-us/articles/6605461489307-Shopify-Hydrogen)
 
 ### Blog posts
 
