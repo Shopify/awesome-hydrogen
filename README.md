@@ -43,16 +43,16 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 
 ### Blog posts
 
-- [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/) by Ilya Grigorik
-- [React Server Components Best Practices You Can Use with Hydrogen](https://shopify.engineering/react-server-components-best-practices-hydrogen) by Cathryn Griffiths
-- [Hydrogen & Tailwind: The Perfect Match for Building Beautiful Storefronts](https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts) by Josh Larson
-- [Best-in-Class Developer Experience with Vite and Hydrogen](https://shopify.engineering/developer-experience-with-hydrogen-and-vite) by Fran Dios
+- [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/) by [Ilya Grigorik](https://github.com/igrigorik)
+- [React Server Components Best Practices You Can Use with Hydrogen](https://shopify.engineering/react-server-components-best-practices-hydrogen) by [Cathryn Griffiths](https://github.com/cathryngriffiths)
+- [Hydrogen & Tailwind: The Perfect Match for Building Beautiful Storefronts](https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts) by [Josh Larson](https://github.com/jplhomer)
+- [Best-in-Class Developer Experience with Vite and Hydrogen](https://shopify.engineering/developer-experience-with-hydrogen-and-vite) by [Fran Dios](https://github.com/frandiox)
 
 ### Podcasts
 
-- [The Changelog – Episode #469 Shopify's vision for the future of commerce](https://changelog.com/podcast/469) with Ilya Grigorik
-- [FSJam – Episode #70](https://fsjam.org/episodes/episode-70-hydrogen-with-josh-larson) with Josh Larson
-- [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29) with Anthony Frehner
+- [The Changelog – Episode #469 Shopify's vision for the future of commerce](https://changelog.com/podcast/469) with [Ilya Grigorik](https://github.com/igrigorik)
+- [FSJam – Episode #70](https://fsjam.org/episodes/episode-70-hydrogen-with-josh-larson) with [Josh Larson](https://github.com/jplhomer)
+- [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29) with [Anthony Frehner](https://github.com/frehner)
 
 
 ### Conference talks
