@@ -59,6 +59,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 ### Blog Posts
 
 - [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/) by [Ilya Grigorik](https://github.com/igrigorik)
+- [Rapid Development with Hydrogen: Building a Product Page](https://shopify.engineering/rapid-development-hydrogen-building-product-page) by [Scott Dixon](https://github.com/scottdixon)
 - [React Server Components Best Practices You Can Use with Hydrogen](https://shopify.engineering/react-server-components-best-practices-hydrogen) by [Cathryn Griffiths](https://github.com/cathryngriffiths)
 - [Hydrogen & Tailwind: The Perfect Match for Building Beautiful Storefronts](https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts) by [Josh Larson](https://github.com/jplhomer)
 - [Best-in-Class Developer Experience with Vite and Hydrogen](https://shopify.engineering/developer-experience-with-hydrogen-and-vite) by [Fran Dios](https://github.com/frandiox)
