@@ -6,13 +6,26 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 
 Hydrogen is a React-based framework for building dynamic, Shopify-powered custom storefronts.
 
+### Contents
+
+- [Official Resources](#official-resources)
+- [Getting Started](#getting-started)
+- [Tools](#tools)
+- [Community](#community)
+- [Examples](#examples)
+- [Apps & Integrations](#apps--integrations)
+- [Blog Posts](#blog-posts)
+- [Podcasts](#podcasts)
+- [Conference Talks](#conference-talks)
+- [Vite Plugins](#vite-plugins)
+
 ### Official Resources
 
 - [Hydrogen framework docs](https://shopify.dev/custom-storefronts/hydrogen/framework)
 - [Hydrogen reference](https://shopify.dev/api/hydrogen)
 - [GitHub](https://github.com/Shopify/hydrogen)
 
-### Getting started
+### Getting Started
 
 - [create @shopify/hydrogen](https://www.npmjs.com/package/@shopify/create-hydrogen)
 - [Experiment on StackBlitz - Demo Store](https://hydrogen.new)
@@ -43,7 +56,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 - [Loop Returns](https://www.npmjs.com/package/@loophq/onstore-sdk/v/1.0.8)
 - [Searchspring](https://searchspring.zendesk.com/hc/en-us/articles/6605461489307-Shopify-Hydrogen)
 
-### Blog posts
+### Blog Posts
 
 - [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/) by [Ilya Grigorik](https://github.com/igrigorik)
 - [React Server Components Best Practices You Can Use with Hydrogen](https://shopify.engineering/react-server-components-best-practices-hydrogen) by [Cathryn Griffiths](https://github.com/cathryngriffiths)
@@ -57,11 +70,11 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 - [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29) with [Anthony Frehner](https://github.com/frehner)
 
 
-### Conference talks
+### Conference Talks
 
 - [Anthony Frehner at Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)
   
 
-### Vite plugins
+### Vite Plugins
 
 - [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically.
