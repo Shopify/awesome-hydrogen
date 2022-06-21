@@ -4,6 +4,8 @@
 
 A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> things.
 
+Hydrogen is a React-based framework for building dynamic, Shopify-powered custom storefronts.
+
 ### Official Resources
 
 - [Hydrogen framework docs](https://shopify.dev/custom-storefronts/hydrogen/framework)
