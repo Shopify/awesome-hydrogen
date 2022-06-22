@@ -34,7 +34,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 
 ## Tools
 
-- [Hydrogen for VSCode](https://marketplace.visualstudio.com/items?itemName=crtogrm.hydrogen-vscode&ssr=false#overview) by [Matt Seccafian](https://github.com/cartogram)
+- [Hydrogen for VSCode](https://marketplace.visualstudio.com/items?itemName=crtogrm.hydrogen-vscode&ssr=false#overview) - VSCode integration by [Matt Seccafian](https://github.com/cartogram).
 
 ## Community
 
@@ -55,16 +55,15 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 
 ## Apps & Integrations
 
-- [Sanity](https://github.com/sanity-io/hydrogen-app)
-- [Rebuy](https://www.npmjs.com/package/@rebuy/rebuy-hydrogen)
-- [Loop Returns](https://www.npmjs.com/package/@loophq/onstore-sdk/v/1.0.8)
-- [Searchspring](https://searchspring.zendesk.com/hc/en-us/articles/6605461489307-Shopify-Hydrogen)
-- [Klaviyo](https://developers.klaviyo.com/en/docs/integrate-with-a-shopify-hydrogen-store)
-- [Nosto](https://docs.nosto.com/shopify/features/shopify-hydrogen)
-- [Contentful](https://www.contentful.com/contentful-and-shopifys-hydrogen-starter/)
-- [Algolia](https://github.com/algolia/shopify-hydrogen-algolia)
-- [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo/wiki)
-- [Loop](https://help.loopreturns.com/article/205-loop-on-store-sdk-shopify-hydrogen)
+- [Sanity](https://github.com/sanity-io/hydrogen-app) - Headless CMS.
+- [Rebuy](https://www.npmjs.com/package/@rebuy/rebuy-hydrogen) - Retention tools and automated reorder flows.
+- [Loop](https://www.npmjs.com/package/@loophq/onstore-sdk/v/1.0.8) - Returns.
+- [Searchspring](https://searchspring.zendesk.com/hc/en-us/articles/6605461489307-Shopify-Hydrogen) - Search, merchandising, and personalization.
+- [Klaviyo](https://developers.klaviyo.com/en/docs/integrate-with-a-shopify-hydrogen-store) - Email and SMS marketing.
+- [Nosto](https://docs.nosto.com/shopify/features/shopify-hydrogen) - Personalization.
+- [Contentful](https://www.contentful.com/contentful-and-shopifys-hydrogen-starter/) - Headless CMS.
+- [Algolia](https://github.com/algolia/shopify-hydrogen-algolia)- Search and discovery.
+- [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo/wiki) - Customer reviews.
 
 ## Blog Posts
 
