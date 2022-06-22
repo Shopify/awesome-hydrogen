@@ -34,7 +34,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 
 ## Tools
 
-- [Hydrogen for VSCode](https://marketplace.visualstudio.com/items?itemName=crtogrm.hydrogen-vscode&ssr=false#overview) - VSCode integration by [Matt Seccafian](https://github.com/cartogram).
+- [Hydrogen for VSCode](https://marketplace.visualstudio.com/items?itemName=crtogrm.hydrogen-vscode&ssr=false#overview)
 
 ## Community
 
@@ -62,22 +62,22 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 - [Klaviyo](https://developers.klaviyo.com/en/docs/integrate-with-a-shopify-hydrogen-store) - Email and SMS marketing.
 - [Nosto](https://docs.nosto.com/shopify/features/shopify-hydrogen) - Personalization.
 - [Contentful](https://www.contentful.com/contentful-and-shopifys-hydrogen-starter/) - Headless CMS.
-- [Algolia](https://github.com/algolia/shopify-hydrogen-algolia)- Search and discovery.
+- [Algolia](https://github.com/algolia/shopify-hydrogen-algolia) - Search and discovery.
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo/wiki) - Customer reviews.
 
 ## Blog Posts
 
-- [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/) by [Ilya Grigorik](https://github.com/igrigorik)
-- [Rapid Development with Hydrogen: Building a Product Page](https://shopify.engineering/rapid-development-hydrogen-building-product-page) by [Scott Dixon](https://github.com/scottdixon)
-- [React Server Components Best Practices You Can Use with Hydrogen](https://shopify.engineering/react-server-components-best-practices-hydrogen) by [Cathryn Griffiths](https://github.com/cathryngriffiths)
-- [Hydrogen & Tailwind: The Perfect Match for Building Beautiful Storefronts](https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts) by [Josh Larson](https://github.com/jplhomer)
-- [Best-in-Class Developer Experience with Vite and Hydrogen](https://shopify.engineering/developer-experience-with-hydrogen-and-vite) by [Fran Dios](https://github.com/frandiox)
+- [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/)
+- [Rapid Development with Hydrogen: Building a Product Page](https://shopify.engineering/rapid-development-hydrogen-building-product-page)
+- [React Server Components Best Practices You Can Use with Hydrogen](https://shopify.engineering/react-server-components-best-practices-hydrogen)
+- [Hydrogen & Tailwind: The Perfect Match for Building Beautiful Storefronts](https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts)
+- [Best-in-Class Developer Experience with Vite and Hydrogen](https://shopify.engineering/developer-experience-with-hydrogen-and-vite)
 
 ## Podcasts
 
-- [The Changelog – Episode #469 Shopify's vision for the future of commerce](https://changelog.com/podcast/469) with [Ilya Grigorik](https://github.com/igrigorik)
-- [FSJam – Episode #70](https://fsjam.org/episodes/episode-70-hydrogen-with-josh-larson) with [Josh Larson](https://github.com/jplhomer)
-- [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29) with [Anthony Frehner](https://github.com/frehner)
+- [The Changelog – Episode #469 Shopify's vision for the future of commerce](https://changelog.com/podcast/469)
+- [FSJam – Episode #70](https://fsjam.org/episodes/episode-70-hydrogen-with-josh-larson)
+- [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29)
 
 
 ## Conference Talks
