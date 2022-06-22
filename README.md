@@ -48,6 +48,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 - [Meta Pixel](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/meta-pixel)
 - [Rust](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/rust)
 - [TypeScript](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/typescript)
+- [Sanity](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/sanity)
 - [Klaviyo](https://github.com/klaviyo-labs/klaviyo-shopify-hydrogen-example)
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo)
 
