@@ -4,13 +4,28 @@
 
 A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> things.
 
+Hydrogen is a React-based framework for building dynamic, Shopify-powered custom storefronts.
+
+### Contents
+
+- [Official Resources](#official-resources)
+- [Getting Started](#getting-started)
+- [Tools](#tools)
+- [Community](#community)
+- [Examples](#examples)
+- [Apps & Integrations](#apps--integrations)
+- [Blog Posts](#blog-posts)
+- [Podcasts](#podcasts)
+- [Conference Talks](#conference-talks)
+- [Vite Plugins](#vite-plugins)
+
 ### Official Resources
 
 - [Hydrogen framework docs](https://shopify.dev/custom-storefronts/hydrogen/framework)
 - [Hydrogen reference](https://shopify.dev/api/hydrogen)
 - [GitHub](https://github.com/Shopify/hydrogen)
 
-### Getting started
+### Getting Started
 
 - [create @shopify/hydrogen](https://www.npmjs.com/package/@shopify/create-hydrogen)
 - [Experiment on StackBlitz - Demo Store](https://hydrogen.new)
@@ -33,6 +48,7 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 - [Meta Pixel](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/meta-pixel)
 - [Rust](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/rust)
 - [TypeScript](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/typescript)
+- [Klaviyo](https://github.com/klaviyo-labs/klaviyo-shopify-hydrogen-example)
 
 ### Apps & Integrations
 
@@ -40,10 +56,13 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 - [Rebuy](https://www.npmjs.com/package/@rebuy/rebuy-hydrogen)
 - [Loop Returns](https://www.npmjs.com/package/@loophq/onstore-sdk/v/1.0.8)
 - [Searchspring](https://searchspring.zendesk.com/hc/en-us/articles/6605461489307-Shopify-Hydrogen)
+- [Klaviyo](https://developers.klaviyo.com/en/docs/integrate-with-a-shopify-hydrogen-store)
+- [Nosto](https://docs.nosto.com/shopify/features/shopify-hydrogen)
 
-### Blog posts
+### Blog Posts
 
 - [Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce](https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/) by [Ilya Grigorik](https://github.com/igrigorik)
+- [Rapid Development with Hydrogen: Building a Product Page](https://shopify.engineering/rapid-development-hydrogen-building-product-page) by [Scott Dixon](https://github.com/scottdixon)
 - [React Server Components Best Practices You Can Use with Hydrogen](https://shopify.engineering/react-server-components-best-practices-hydrogen) by [Cathryn Griffiths](https://github.com/cathryngriffiths)
 - [Hydrogen & Tailwind: The Perfect Match for Building Beautiful Storefronts](https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts) by [Josh Larson](https://github.com/jplhomer)
 - [Best-in-Class Developer Experience with Vite and Hydrogen](https://shopify.engineering/developer-experience-with-hydrogen-and-vite) by [Fran Dios](https://github.com/frandiox)
@@ -55,11 +74,11 @@ A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> t
 - [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29) with [Anthony Frehner](https://github.com/frehner)
 
 
-### Conference talks
+### Conference Talks
 
 - [Anthony Frehner at Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)
   
 
-### Vite plugins
+### Vite Plugins
 
 - [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically.
