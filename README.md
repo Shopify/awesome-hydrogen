@@ -64,6 +64,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 - [Contentful](https://www.contentful.com/contentful-and-shopifys-hydrogen-starter/) - Headless CMS.
 - [Algolia](https://github.com/algolia/shopify-hydrogen-algolia) - Search and discovery.
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo/wiki) - Customer reviews.
+- [Dynamic Yield](https://www.dynamicyield.com/integration/shopify-plus) - Personalization.
 
 ## Blog Posts
 
