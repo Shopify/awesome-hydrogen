@@ -52,6 +52,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 - [Sanity](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/sanity)
 - [Klaviyo](https://github.com/klaviyo-labs/klaviyo-shopify-hydrogen-example)
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo)
+- [Builder.io](https://github.com/BuilderIO/builder-shopify-hydrogen)
 
 ## Apps & Integrations
 
