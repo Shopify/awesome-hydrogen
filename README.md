@@ -56,7 +56,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 
 ## Apps & Integrations
 
-- [Sanity](https://github.com/sanity-io/hydrogen-app) - Headless CMS.
+- [Sanity](https://github.com/sanity-io/hydrogen-sanity-demo) - Headless CMS.
 - [Builder.io](https://github.com/builderio/builder-shopify-hydrogen) - Visual CMS / Page builder.
 - [Rebuy](https://www.npmjs.com/package/@rebuy/rebuy-hydrogen#readme) - Personalization, merchandising, and retention tools.
 - [Loop](https://www.npmjs.com/package/@loophq/onstore-sdk/v/1.0.8) - Returns.
