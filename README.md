@@ -2,7 +2,7 @@
 
 # Awesome Hydrogen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> things.
+:warning: These are Hydrogen v1 resources. The latest version of Hydrogen can be [found here](https://hydrogen.shopify.dev/). :warning:
 
 Hydrogen is a React-based framework for building dynamic, Shopify-powered custom storefronts.
 
@@ -21,16 +21,15 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 
 ## Official Resources
 
-- [Hydrogen framework docs](https://shopify.dev/custom-storefronts/hydrogen/framework)
-- [Hydrogen reference](https://shopify.dev/api/hydrogen)
-- [GitHub](https://github.com/Shopify/hydrogen)
+- [Hydrogen docs](https://shopify.github.io/hydrogen-v1/)
+- [GitHub](https://github.com/Shopify/hydrogen-v1)
 
 ## Getting Started
 
-- [Quickstart](https://shopify.dev/custom-storefronts/hydrogen/getting-started/quickstart) - Create a Hydrogen app locally.
-- [Tutorial](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) - From "Hello World" to a fully built out Shopify custom storefront.
-- [Experiment on StackBlitz - Demo Store](https://hydrogen.new) - A complete Hydrogen storefront template on StackBlitz.
-- [Experiment on StackBlitz - Hello World](https://stackblitz.com/fork/github/shopify/hydrogen/tree/stackblitz/templates/hello-world-js) - A minimal template on StackBlitz.
+- [Quickstart](https://shopify.github.io/hydrogen-v1/tutorials/getting-started/quickstart) - Create a Hydrogen app locally.
+- [Tutorial](https://shopify.github.io/hydrogen-v1/tutorials/getting-started/tutorial) - From "Hello World" to a fully built out Shopify custom storefront.
+- [Experiment on StackBlitz - Demo Store](https://stackblitz.com/fork/github/shopify/hydrogen-v1/tree/dist/templates/demo-store-js) - A complete Hydrogen storefront template on StackBlitz.
+- [Experiment on StackBlitz - Hello World](https://stackblitz.com/fork/github/shopify/hydrogen-v1/tree/dist/templates/hello-world-js) - A minimal template on StackBlitz.
 
 ## Tools
 
@@ -38,18 +37,18 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 
 ## Community
 
-- [Discord](https://discord.gg/ppSbThrFaS)
-- [GitHub Discussions](https://github.com/Shopify/hydrogen/discussions)
+- [Discord](https://discord.gg/shopifydevs)
+- [GitHub Discussions](https://github.com/Shopify/hydrogen-v1/discussions)
 
 ## Examples
 
-- [API routes](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/api-routes)
-- [CSS modules](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/css-modules)
-- [Google Analytics](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/google-analytics)
-- [Meta Pixel](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/meta-pixel)
-- [Rust](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/rust)
-- [TypeScript](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/typescript)
-- [Sanity](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/sanity)
+- [API routes](https://github.com/Shopify/hydrogen-v1/tree/v1.x-2022-07/examples/api-routes)
+- [CSS modules](https://github.com/Shopify/hydrogen-v1/tree/v1.x-2022-07/examples/css-modules)
+- [Google Analytics](https://github.com/Shopify/hydrogen-v1/tree/v1.x-2022-07/examples/google-analytics)
+- [Meta Pixel](https://github.com/Shopify/hydrogen-v1/tree/v1.x-2022-07/examples/meta-pixel)
+- [Rust](https://github.com/Shopify/hydrogen-v1/tree/v1.x-2022-07/examples/rust)
+- [TypeScript](https://github.com/Shopify/hydrogen-v1/tree/v1.x-2022-07/examples/typescript)
+- [Sanity](https://github.com/Shopify/hydrogen-v1/tree/v1.x-2022-07/examples/sanity)
 - [Klaviyo](https://github.com/klaviyo-labs/klaviyo-shopify-hydrogen-example)
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo)
 - [Builder.io](https://github.com/BuilderIO/builder-shopify-hydrogen)
