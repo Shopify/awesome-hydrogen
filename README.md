@@ -4,6 +4,8 @@
 
 Hydrogen is Shopify's open source stack for headless commerce.
 
+⚠️ These are Hydrogen v2 resources. Hydrogen v1 resources can be [found here](https://github.com/Shopify/awesome-hydrogen/tree/h1). ⚠️
+
 ## Contents
 
 - [Official Resources](#official-resources)
@@ -15,6 +17,7 @@ Hydrogen is Shopify's open source stack for headless commerce.
 - [Blog Posts](#blog-posts)
 - [Podcasts](#podcasts)
 - [Conference Talks](#conference-talks)
+- [Showcase](#showcase)
 
 ## Official Resources
 
@@ -37,23 +40,32 @@ Hydrogen is Shopify's open source stack for headless commerce.
 
 ## Examples
 
-- []()
+- [Hydrogen NodeJS Express Example](https://github.com/Shopify/hydrogen/tree/2023-04/examples/express)
 
 ## Apps & Integrations
+
 - [Crossing Minds](https://github.com/Crossing-Minds/hydrogen-demo-store) - Product recommendation engine.
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo) - Customer reviews.
 - [Sanity](https://github.com/sanity-io/hydrogen-sanity-demo) - Headless CMS.
 
 ## Blog Posts
 
-- []()
+- [Remixing Hydrogen](https://hydrogen.shopify.dev/roadmap#remixing-hydrogen)
+- [Headless Shopify - Hydrogen & Oxygen Pros & Cons + Alternative Routes](https://vervaunt.com/shopify-hydrogen-oxygen-pros-cons)
 
 ## Podcasts
 
-- [The Changelog – Episode #469 Shopify's vision for the future of commerce](https://changelog.com/podcast/469)
-- [FSJam – Episode #70](https://fsjam.org/episodes/episode-70-hydrogen-with-josh-larson)
 - [JS Party – Episode #228 Live from Remix Conf!](https://jsparty.fm/228#t=31:29)
+- [Remixing Hydrogen - Lessons learnt embracing the platform by JP Prieto](https://www.youtube.com/watch?v=MbfKZmvefNs)
+- [Headless commerce with Shopify's Hydrogen with Bret Little](https://www.youtube.com/watch?v=dTh1esIxw1k)
 
 ## Conference Talks
 
 - [Juan Pablo Prieto at Remix Conf 2023](https://www.youtube.com/watch?v=qVkRyjSrhXs&t=22990s)
+
+## Showcase
+
+- [Patta x Tommy](https://hydrogen.shopify.dev/case-studies/patta-x-tommy)
+- [Kamp Grizzly](https://hydrogen.shopify.dev/case-studies/kamp-grizzly)
+- [AllBirds](https://hydrogen.shopify.dev/case-studies/allbirds)
+- [The Headless Club](https://theheadlessclub.com/tool/hydrogen)
