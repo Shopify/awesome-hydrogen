@@ -21,7 +21,8 @@ Hydrogen is Shopify's open source stack for headless commerce.
 
 ## Official Resources
 
-- [Hydrogen docs](https://shopify.dev/docs/custom-storefronts/hydrogen)
+- [Docs](https://shopify.dev/docs/custom-storefronts/hydrogen)
+- [Hydrogen React](https://shopify.dev/docs/custom-storefronts/hydrogen-react)
 - [GitHub](https://github.com/Shopify/hydrogen)
 
 ## Getting Started
