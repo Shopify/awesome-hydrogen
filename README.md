@@ -55,6 +55,7 @@ Hydrogen is Shopify's open source stack for headless commerce.
 - Rebuy (Coming Soon)
 - Netlify (Coming Soon)
 - Gorgias (Coming Soon)
+- Pack Digital (Coming Soon)
 
 ## Blog Posts
 
