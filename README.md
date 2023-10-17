@@ -54,6 +54,7 @@ Hydrogen is Shopify's open source stack for headless commerce.
 - [Rebuy](https://bitbucket.org/rebuyengine/npm-rebuy-hydrogen) - Product recommendations.
 - [Sanity](https://github.com/sanity-io/hydrogen-sanity-demo) - Headless CMS.
 - [Swym](https://github.com/swym-corp/swym-hydrogen-store) - Wishlists.
+- [Weaverse](https://weaverse.io) - Hydrogen Theme Customizer & CMS
 - [Vercel](https://vercel.com/templates/remix/hydrogen-2) - Deploy to Vercel.
 - Contentful (Coming Soon)
 - Yotpo (Coming Soon)
